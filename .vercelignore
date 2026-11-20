@@ -1,0 +1,10 @@
+.git/
+.local/
+.env*
+node_modules/
+dist/
+scripts/
+tests/
+supabase/
+extraction.json
+README.md
